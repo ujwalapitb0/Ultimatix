@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="19396" started-at="2018-04-16T12:42:48Z" finished-at="2018-04-16T12:43:08Z">
+    <groups>
+    </groups>
+    <test name="Ultimatix_login" duration-ms="19396" started-at="2018-04-16T12:42:48Z" finished-at="2018-04-16T12:43:08Z">
+      <class name="com.tcs.ultimatix.regression.TestNGTests">
+        <test-method status="PASS" signature="StartSession(java.lang.reflect.Method)[pri:0, instance:com.tcs.ultimatix.regression.TestNGTests@cb5822]" name="StartSession" is-config="true" duration-ms="7" started-at="2018-04-16T18:12:48Z" finished-at="2018-04-16T18:12:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tcs.ultimatix.regression.TestNGTests.MyAllocationandUtilization()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartSession -->
+        <test-method status="PASS" signature="StartSession1(java.lang.reflect.Method)[pri:0, instance:com.tcs.ultimatix.regression.TestNGTests@cb5822]" name="StartSession1" is-config="true" duration-ms="0" started-at="2018-04-16T18:12:48Z" finished-at="2018-04-16T18:12:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tcs.ultimatix.regression.TestNGTests.MyAllocationandUtilization()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartSession1 -->
+        <test-method status="PASS" signature="MyAllocationandUtilization()[pri:0, instance:com.tcs.ultimatix.regression.TestNGTests@cb5822]" name="MyAllocationandUtilization" duration-ms="19376" started-at="2018-04-16T18:12:48Z" finished-at="2018-04-16T18:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyAllocationandUtilization -->
+      </class> <!-- com.tcs.ultimatix.regression.TestNGTests -->
+    </test> <!-- Ultimatix_login -->
+  </suite> <!-- Suite1 -->
+</testng-results>

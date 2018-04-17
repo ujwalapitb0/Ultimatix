@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <test name="Ultimatix_login(failed)">
+    <classes>
+      <class name="com.tcs.ultimatix.regression.TestNGTests">
+        <methods>
+          <include name="MyAllocationandUtilization"/>
+          <include name="StartSession"/>
+        </methods>
+      </class> <!-- com.tcs.ultimatix.regression.TestNGTests -->
+    </classes>
+  </test> <!-- Ultimatix_login(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

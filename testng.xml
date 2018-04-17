@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1" >
+  <test name="Ultimatix_login" >
+    <classes>
+       <class name="com.tcs.ultimatix.regression.TestNGTests" />
+       <methods>
+       <include name = "MyAllocationandUtilization"/>
+       <exclude name="LoginTest"/>
+       </methods>
+    </classes>
+  </test>
+  
+</suite>
